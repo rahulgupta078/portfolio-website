@@ -98,7 +98,7 @@ const SocialIcons = () => {
       </div>
       <a
         className="resume-button"
-        href="/resume.pdf"
+        href={`${import.meta.env.BASE_URL}resume.pdf`}
         target="_blank"
         rel="noreferrer"
       >

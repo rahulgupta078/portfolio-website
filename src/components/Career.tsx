@@ -15,10 +15,37 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>B.Tech in CSE (Data Science)</h4>
-                <h5>GL Bajaj Institute of Tech. & Management, Greater Noida</h5>
+                <h4>Diploma in CSE</h4>
+                <h5>Jharkhand University of technology - Ranchi</h5>
               </div>
-              <h3>2024-28</h3>
+              <h3>2022-25</h3>
+            </div>
+            <p>
+              Completed a Diploma in Computer Science & Engineering, building a strong foundation in programming,
+              database, web development, computer networks.
+            </p>
+          </div>
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
+                <h4>Java Programming intern</h4>
+                <h5>Codezeal Technology, Ranchi</h5>
+              </div>
+              <h3>2024 </h3>
+            </div>
+            <p>
+              Completed a Java Programming Internship at Codezeal Technology,
+              gaining hands-on experience in Java and web development while working on a FashionHub e-commerce website.
+
+            </p>
+          </div>
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
+                <h4>B.Tech in CSE (Data Science)</h4>
+                <h5>GL Bajaj Institute of Tech. & Management - AKTU</h5>
+              </div>
+              <h3>2025-28</h3>
             </div>
             <p>
               Undergraduate program specializing in Computer Science and Data Science,
@@ -28,27 +55,15 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Java Programming Intern</h4>
-                <h5>Codezeal Technology, Ranchi</h5>
-              </div>
-              <h3>2024</h3>
-            </div>
-            <p>
-              October 2024 – November 2024. Developed an e-commerce application utilizing
-              Java, HTML, CSS, and JavaScript, implementing core business logic and user interface flows.
-            </p>
-          </div>
-          <div className="career-info-box">
-            <div className="career-info-in">
-              <div className="career-role">
-                <h4>Aspiring Data Analyst & Software Engineer</h4>
+                <h4>Aspiring Analyst & Software Engineer</h4>
                 <h5>Continuous Projects & Skill Building</h5>
               </div>
               <h3>NOW</h3>
             </div>
             <p>
-              Developing full-stack and data-driven solutions, deepening expertise across
-              AWS Cloud, Generative AI foundation models, and business intelligence analytics.
+              Aspiring Data Analyst skilled in Python, SQL, Business Intelligence, and data visualization,
+              with knowledge of AWS Cloud and Generative AI & Foundation Models. Passionate about transforming data into meaningful insights.
+
             </p>
           </div>
         </div>

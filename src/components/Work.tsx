@@ -12,21 +12,21 @@ const projects = [
     name: "Gitfolio",
     category: "Dynamic Portfolio Generation",
     tools: "HTML, CSS, JavaScript",
-    image: "/images/placeholder.webp",
+    image: `${import.meta.env.BASE_URL}images/placeholder.webp`,
   },
   {
     id: "02",
     name: "FashionHub",
     category: "E-Commerce Website",
     tools: "Java, HTML, CSS, JavaScript",
-    image: "/images/placeholder.webp",
+    image: `${import.meta.env.BASE_URL}images/placeholder.webp`,
   },
   {
     id: "03",
     name: "Stracker",
     category: "Warranty & Service Tracker",
     tools: "Web Application, Product & Records Management",
-    image: "/images/placeholder.webp",
+    image: `${import.meta.env.BASE_URL}images/placeholder.webp`,
   },
 ];
 

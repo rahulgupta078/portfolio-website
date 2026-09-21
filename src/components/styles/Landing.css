@@ -84,17 +84,18 @@
 }
 .character-rim {
   position: absolute;
-  width: 400px;
-  height: 400px;
+  width: 500px;
+  height: 500px;
   z-index: 1;
-  background-color: #f59bf8;
-  transform: translate(-50%, 36%) scaleX(1.4);
-  box-shadow: inset 66px 35px 85px 0px rgba(85, 0, 255, 0.65);
-  filter: blur(50px);
+  background-color: #d98cff;
+  transform: translate(-50%, 70%) scale(1.25);
+  box-shadow:
+    inset 40px 20px 100px 0px rgba(85, 0, 255, 0.8),
+    0 0 100px 30px rgba(180, 80, 255, 0.45);
+  filter: blur(45px);
   border-radius: 50%;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, 100%) scale(1.4);
   opacity: 0;
 }
 .character-model {

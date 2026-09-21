@@ -6,11 +6,7 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          I am a Computer Science Engineering (Data Science) undergraduate at GL
-          Bajaj Institute of Technology & Management, Greater Noida (Expected
-          Graduation: 2028). Passionate about Software Engineering, Data Analysis,
-          and AI-powered solutions, I enjoy building data-driven applications,
-          discovering actionable insights, and solving complex problems with code.
+          I am a B.Tech CSE(Data Science) student passionate about Data Analytics and AI. My expertise lies in Python, SQL, Statistics, Data visualization including Pandas, Numpy, Matplotlib, Power BI, Tableau, MySQL and PostgreSQL. Also working in AWS cloud, Generative AI, Foundations of models, Business Intelligence, etc. Always learning new skills to enhance my knowledge and apply my expertise to solve real-world problems.
         </p>
       </div>
     </div>

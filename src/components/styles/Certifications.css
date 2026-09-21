@@ -67,6 +67,7 @@
   justify-content: space-between;
   align-items: flex-start;
   margin-bottom: 12px;
+  padding-right: 90px;
 }
 
 .cert-index {
@@ -135,4 +136,23 @@
     font-size: 40px;
     line-height: 40px;
   }
+}
+
+.view-certificate {
+  position: absolute;
+  top: 18px;
+  right: 18px;
+  padding: 5px 12px;
+  border: 1px solid #a98cff;
+  border-radius: 4px;
+  color: #a98cff;
+  font-size: 11px;
+  text-decoration: none;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+.view-certificate:hover {
+  background: #a98cff;
+  color: #0b080d;
 }
