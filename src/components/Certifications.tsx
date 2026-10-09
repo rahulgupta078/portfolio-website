@@ -21,7 +21,7 @@ const certifications: CertificationItem[] = [
     title: "Developing Generative Artificial Intelligence Solutions",
     issuer: "Amazon Web Services (AWS)",
     skills: ["Generative AI", "Foundation Models"],
-    certificateUrl: `https://smallpdf.com/file#s=b37b0745-4f30-49e8-a222-712ea6e9b292`,
+    certificateUrl: "https://drive.google.com/file/d/14JH-PHPGzuVTEKb4HKQ0YK1qv5pl3G2K/view?usp=sharing",
   },
   {
     id: "03",
@@ -49,7 +49,7 @@ const certifications: CertificationItem[] = [
     title: "AWS Cloud Practitioner Essentials",
     issuer: "Amazon Web Services (AWS)",
     skills: ["Cloud Computing", "AWS Cloud Essentials"],
-    certificateUrl: "",
+    certificateUrl: "https://drive.google.com/file/d/1w57NCZ1dGwGbVbV54-6prVr06C0Y080V/view?usp=sharing",
   },
 ];
 
