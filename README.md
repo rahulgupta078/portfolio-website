@@ -1,65 +1,94 @@
-# My Portfolio Website - Overview 🚀
+# Personal Portfolio Website 🚀
 
-This repository contains the open-source version of my personal portfolio website.  
-Feel free to explore the code and use it for learning and inspiration.
+A modern, interactive portfolio website showcasing my technical skills, projects, certifications, and professional journey as a Computer Science & Engineering (Data Science) student.
 
----
+The project is built with a focus on clean design, engaging animations, and an interactive 3D experience.
 
-## ⚠️ Usage Notice
-
-This project is shared for learning purposes only.
-
-Please do NOT:
-- Clone or replicate the full website or design
-- Repost it with minor content changes
-- Use this project for commercial/client work
-- Create tutorials or content using this exact project
-
-If you use parts of the code, you must provide proper credit linking back to the original repository.
-
-Build your own version — don’t just copy.
-
-— Moncy Yohannan
+🌐 **Live Website:** [View My Portfolio](https://portfolio-website-rahul-dev8.vercel.app/)
 
 ---
 
-## 🛠️ Instructions
+## ✨ Features
 
-I have modified the GSAP Club plugins using trial versions.  
-⚠️ Note: Trial plugins cannot be used for production or hosting.
+- **Personal Introduction:** Overview of my background, interests, and technical journey.
+- **Projects Showcase:** Highlights of my projects and practical work.
+- **Technical Skills:** Technologies, tools, and frameworks I work with.
+- **Certifications:** Professional courses and learning achievements.
+- **Interactive Animations:** Smooth transitions and scroll-based animations.
+- **3D Experience:** Interactive 3D elements for a more engaging interface.
+- **Responsive Design:** Optimized for different screen sizes.
 
-For official GSAP Club plugins, refer here:  
-https://gsap.com/docs/v3/Installation/
+## 🛠️ Technology Stack
 
----
+| Category | Technologies |
+|---|---|
+| Frontend | React, TypeScript |
+| Styling | HTML, CSS, JavaScript |
+| Animations | GSAP |
+| 3D Graphics | Three.js, WebGL |
+| Development Tools | Git, GitHub, Vite |
+| Deployment | Vercel |
 
-## ⚙️ Tech Stack
+## ⚙️ Getting Started
 
-React • TypeScript • GSAP • Three.js • WebGL • HTML • CSS • JavaScript
+Follow these steps to run the project locally.
 
----
+**1. Clone the repository**
 
-## 🎨 Assets Usage
+```bash
+git clone https://github.com/rahulgupta078/portfolio-website.git
+```
 
-Some 3D assets included in this repository are free to use for learning purposes.
+**2. Navigate to the project directory**
 
-However:
+```bash
+cd portfolio-website
+```
 
-- The original 3D avatar used on my live portfolio is NOT included in this repository
-- That avatar is a custom asset created over ~1 month
-- It is not open source and not available for reuse
+**3. Install dependencies**
 
-Any usage, extraction, or redistribution of that avatar from my live website is strictly prohibited.
+```bash
+npm install
+```
 
----
+**4. Start the development server**
 
-![Protfolio-Preview](https://github.com/user-attachments/assets/3c4557e7-6392-4928-b8a9-7b2476ef4edd)
+```bash
+npm run dev
+```
 
----
+Open the local URL displayed in your terminal to view the website.
+
+**5. Build for production**
+
+```bash
+npm run build
+```
+
+## 📌 Important Notes
+
+- Some animation and 3D features depend on their respective libraries and assets.
+- This repository may contain third-party assets and dependencies that are subject to their own licenses.
+- GSAP Club plugins, if used, require the appropriate official license for production use. Refer to the [GSAP Installation Guide](https://gsap.com/docs/v3/Installation/).
+
+## 🎨 Assets & Attribution
+
+This portfolio uses visual assets, 3D models, and other resources that may have separate ownership and licensing terms.
+
+The original 3D avatar featured on my live portfolio is a custom asset and is not included in this repository. It is not available for copying, extraction, or redistribution.
+
+Please respect the ownership and licensing terms of all third-party and original assets.
 
 ## 📄 License
 
-This project is licensed under the Personal Portfolio License (PPL) v1.0.
+This project is subject to the **Personal Portfolio License (PPL) v1.0**.
 
-See the LICENSE file for full details
+You may explore and study the source code under the permissions and restrictions specified in the license.
 
+See the [`LICENSE`](./LICENSE) file for complete terms.
+
+---
+
+**Developed and maintained by Rahul Gupta**
+
+[Portfolio](https://portfolio-website-rahul-dev8.vercel.app/) · [GitHub](https://github.com/rahulgupta078) · [LinkedIn](https://www.linkedin.com/in/rahul-gupta-2ab449226/)
